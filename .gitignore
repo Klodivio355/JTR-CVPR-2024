@@ -9,6 +9,7 @@ __pycache__/
 # Data Ignore
 code/data/nyuv2
 code/data/cityscapes
+results
 
 # Distribution / packaging
 .Python
